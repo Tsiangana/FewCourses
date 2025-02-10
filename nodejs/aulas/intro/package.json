@@ -1,0 +1,12 @@
+{
+  "name": "aulas",
+  "version": "0.0.0",
+  "description": "NewLessons",
+  "main": "index.js",
+  "author": "pzau",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@codar/eslint-plugin": "^0.1.3"
+  }
+}

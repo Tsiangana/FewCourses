@@ -1,0 +1,10 @@
+{
+  "name": "resume-tsiangana",
+  "version": "0.2.1",
+  "main": "index.js",
+  "author": "pzau",
+  "license": "MIT",
+  "dependencies": {
+    "resume-tsiangana": "^0.2.1"
+  }
+}

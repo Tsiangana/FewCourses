@@ -11,4 +11,8 @@ console.log(soma(2, 3));
 //ESM - ES Modules - EcmaScript Modules
 
 import calc from "./sub.js"
-import {soma} from "./sub.js"
+
+import * as calc1 from "./sub.js"
+import {soma, sub as sub1} from "./sub.js"
+
+const sub = () => {}
